@@ -3,6 +3,10 @@ h1{
     color: black ;
     display: flex;
     justify-content: center;
+    background-image: url(img_Slide/images.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: auto;
 
 }
 p{
