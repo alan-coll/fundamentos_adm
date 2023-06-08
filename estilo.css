@@ -32,4 +32,5 @@ body{
 .SlideUnico{
     width: 300px;
     height: 400px;
+    justify-content: center;
 }
